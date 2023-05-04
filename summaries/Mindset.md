@@ -2,6 +2,8 @@ Author: Carol Dweck
 Link: https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 Status: Currently reading
 
+"You either go one way or another, you might as well choose the direction."
+
 ### Summary
 Our intelligence and personality aren't fixed. The IQ test was invented in France with the goal of identifying children who are not getting the most our of the current education so that programs could be changed to suit them, not to rank children based on their capabilities. Our beliefs are the core thing that influences our personality and success.
 
@@ -32,10 +34,14 @@ Negative labels can be damaging. Just selection sex or race on a test can make y
 
 GM is not just about effort, it is about:
 - Effort.
-- Finding new strategies when old ones don't work.
+- Finding new strategies when old ones don't work (work smart not hard, even though you should still probably work hard, but not to the point of overworking/burnout).
 - Seeking feedback and help.
 
 GM should **not** be a religion. We all have GM and FM -- we need to identify why and when FM rises up.
+
+The brain is like a muscle, it grows when we use and challenge it.
+
+FM is very enticing, because it gives you an "out" from doing the work. If your ability is great, then you won't gave to work hard to be successful. However, this is far from the truth, even the most talented and smartest people have to work to be successful. The GM is a life-long pursuit. We must not fall into the trap of only using the GM strategies and not fully embracing the GM -- this can lead to disastrous result. Often people apply strategies until they get what they wanted and then settle back into their old ways, usually ending up in an even more FM. For example, using GM strategies to make a child more GM minded and helpful and then stopping using them when you are satisfied. Since you saw what the child is capable of, you become angry once they stop -- but it is you who should also persist with the GM.
 
 ### Sports
 In sports everyone believes in naturals. However, the author provides several examples of athletes that became *the best* in their field due to hard work, most notably Muhammad Ali and Michael Jordan. She also provides a counterexample of a baseball player that was great at everything but once he had one setback it all went downhill. His talent was his biggest enemy, because he did not know how to cope with failure.
@@ -66,3 +72,5 @@ In relationship there are 3 things in which we can have a FM:
 - Relationship traits are fixed.
 
 None of that is true. The romantical idea of everything falling into place with the correct person and staying so is an illusion. You have to work on a relationship -- "They worked (instead of lived) happily ever after".
+
+We sometimes get angry and lash out at our partners. Later we realize we overreacted, have a talk with ourselves, and vow to never let that happen again. "I'm smarter know, I'll react differently next time". And we leave it at that, reacting in the same way down the road. We have to change our strategy, have a meaningful conversation with our spouse. Telling them straight-forwardly how they make us feel and ask if they realize how they make us feel.
