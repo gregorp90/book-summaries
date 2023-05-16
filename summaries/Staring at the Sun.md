@@ -32,3 +32,15 @@ There's a saying on legacy -- it is not leaving something for people, it is leav
 
 "What we do in life, echoes in eternity." Maximus from the movie Gladiator, variation of a quote by Marcus Aurelius.
 
+
+### Ideas
+Yalom provides several powerful ideas, most of them attributed to Nietzsche.
+
+- **Everything fades, alternatives exclude.** Often the fear of death represents the fear of not having particualr experiences. In some sense every decision creates the same effect -- it leaves alternatives out, alternatives that we will not experience. However, the decision needs to be made at some point, we can't just stay in a limbo. As Jocko Willink explains in [[Discipline Equals Freedom]], the hesitation is the dreadful feeling between having to make a decision and making the decision. Jordan Peterson also elaborates on the pitfalls of indecisiveness in [[Beyond Order]]. Make a decision and engage in it fully. Of course if time and new evidence shows to adapt your path, do so accordingly.
+- **When we are tired, we are attacked by ideas we conquered long ago**. When things are not going well for us, or when we are simply tired, we often regress to problems we thought we already solved. This is normal and even the best of people struggle with it. You conquered it once, you will do it again.
+- **Living the identical life, over and over again, for all eternity**. Is this a dreadful idea to you, or a pleasant one? What would you do today, to turn it into a pleasant one? We probably only get one life, so this is similar to living the same one forever. Make it pleasurable and meaningful.
+- **Become who you are**. Relates to dying at the right time (when you consumed your life), see Zorba's quote above.
+- **That which does not kill me maes me stronger**. We grow mostly from adversarial situations in life, embrace them. "We become stronger in the broken places".
+- **Some refuse the loan of life to avoid the debt of death**. We are often afraid of truly immersing ourselves in a moment of putting a lot of effort into something because we are aware of the transient nature of the world and are afraid of being hurt by losing our loved ones,  our progress, our achievements. But this only sets us back and does not allow us to consume the life we have to its fullest.
+- **Shopenauer's triplet of essays: What a man is, What a man has, What a man represents**. In the end, it is most important what we are, and not our belongings or how others *appear* to think of us. How we act. How we interpret cerain experiences. This last point affects our quality of life the most, a central idea in Stoicism.
+

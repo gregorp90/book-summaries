@@ -1,6 +1,6 @@
 Author: Carol Dweck
 Link: https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
-Status: Currently reading
+Status: Finished
 
 "You either go one way or another, you might as well choose the direction."
 
