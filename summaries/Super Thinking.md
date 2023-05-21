@@ -23,4 +23,27 @@ Often we can approach a challenge by breaking it down into core assumptions. For
 **Detach**. Other people will not behave like you and we should not expect them to. Our situations vary. We often say there are 2 sides to a story, but in reality there is a third -- that of the impartial observer. When in an argument, detach from your perspective and ponder on what someone else might think of the situation. The key is to describe the difference in two stories. Often a simple acknowledgement of the other side's point of view can have a disarming effect and can bring us closer to an agreement. **Just as you need variatey in food, you need a variety in perspectives**.
 
 
+### Nonsymmetrical information
+Nonsymmetrical information in the market can break it. An example is everyone selling bad cars because they are aware of their deficiencies while the buyers are not -- in the end everyone will sell only bad cars. Another example is insurance, where people with preconditions will insure themselves but healthy people won't -- this will bring up the premiums. A way to combat this is to make insurance mandatory and to share the burden.
+
+
+### Information
+Everywhere means nowhere, information overload, analysis paralysis. A couple of sayings that concentrate on the same thing: We can drown in information. Seneca already talked about this as he urged us to focus on a select fewer books than reading anything in sight. 
+
+When we have too many options we can encounter anxiety and paradox of choice. We can feel crippled by it, but in the end we have to make a decision (see [[Beyond Order]] and [[Discipline Equals Freedom]]) -- **even not making a decision is a decision**. To avoid challenges surrounding this we have to differentiate between:
+
+- Irreversible decision. It is good to take time in these.
+- Reversible decisions. We should not dwell too much on these. Make them quick and adapt later, can use in an iterative process.
+
+A good strategy is also to limit the number of choices. You can create an algorithm where you only decide between fewer choices at each step. For example, which food to eat first and later on a specific restaurant.
+
+There is also decision fatigue -- when we make many decisions our later decision become worse. The author provides a judges example, similar (or the same?) as the one in [[Thinking, Fast and Slow]].
+
+
+### The North star
+Find your North star -- the thing you value the most -- and focus most of your decisions and actions towards that. It can be becoming great in your field, being a great parent, living a happy life, etc. It is yours and it can change. But working on it with everything you got will yield results. Maybe not today or tomorrow, but in the long run the works will accumulate. Like compounding, which also works on a personal level -- all our actions are a **cumulative** of our knowledge.
+
+To use time wisely focus on one thing at a time. The author relates this to [[Deep work]]. You can't fight on 2 or more fronts. For complex tasks, you need to give them undivided attention. Additionally, when you work on one thing in a focused manner, you might resolve it while not working on it. This is a special phenomenon where we ponder on a problem when we aren't actually actively working on it. Everyone has that one problem and you might be surprised to find solutions or steps towards solutions when not expecting, like driving or taking a shower.
+
+
 
